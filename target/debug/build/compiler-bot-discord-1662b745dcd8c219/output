@@ -1,0 +1,4 @@
+cargo:rustc-env=GIT_HASH_LONG=b5751b48ced2c083190abdb5983fba0f704f72cf
+
+cargo:rustc-env=GIT_HASH_SHORT=b5751b4
+

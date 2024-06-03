@@ -1,0 +1,13 @@
+/home/enowscott/compiler-bot-discord/target/debug/deps/libtoml-f2ef4490848457ce.rmeta: /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/lib.rs /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/map.rs /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/value.rs /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/datetime.rs /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/ser.rs /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/de.rs /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/tokens.rs /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/macros.rs /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/spanned.rs
+
+/home/enowscott/compiler-bot-discord/target/debug/deps/toml-f2ef4490848457ce.d: /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/lib.rs /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/map.rs /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/value.rs /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/datetime.rs /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/ser.rs /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/de.rs /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/tokens.rs /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/macros.rs /home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/spanned.rs
+
+/home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/lib.rs:
+/home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/map.rs:
+/home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/value.rs:
+/home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/datetime.rs:
+/home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/ser.rs:
+/home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/de.rs:
+/home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/tokens.rs:
+/home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/macros.rs:
+/home/enowscott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/spanned.rs:
