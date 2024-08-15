@@ -63,7 +63,8 @@ impl BotsListApi {
         vote_channel: u64,
         pass: String,
         port: u16,
-    ) {
+    ) 
+        {
         let filter = warp::header::<String>("authorization")
             .and_then(move |value| {
                 if value == pass {
