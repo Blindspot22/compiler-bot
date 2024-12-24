@@ -15,3 +15,4 @@ For more information on how to use this bot refer to our [Wiki](https://github.c
 There's only two steps required to get this bot up-and-running. Our release builds only support 64-bit, if you'd like to run this on a different architecture you will have to compile the project yourself, this is also true if you wish to host this bot on MacOS.
 
 
+
