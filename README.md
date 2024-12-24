@@ -3,6 +3,7 @@
 A Discord bot which can compile code, display the output of the compiler, and run the program. This bot is great for prototyping ideas, or testing concepts on-the-fly with very little effort. It supports almost every programing language you could name (rust, c++, c, java, python, & more!). 
 
 ## 🔗 Links
+
  - **[Invitation Link](https://discord.gg/Hp3gRr8CTH)**
 
 ## 👩‍🏫 Usage
